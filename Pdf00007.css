@@ -1,0 +1,22 @@
+.Corret-soultion
+{
+  
+margin-top: 12px;  
+width: 80%;
+background-color: blue;
+border: none;
+color: white ;
+  font-weight: bold;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  padding-top: 6px;
+  padding-bottom: 5.6px;
+  border-radius: 6px;
+}
+.Corret-soultion:hover{
+ background-color: red ;
+}
+#YT-icon{
+  font-size: 16px;
+
+
+}
